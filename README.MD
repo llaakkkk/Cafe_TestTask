@@ -1,2 +1,5 @@
 
-Just unpack zip and run "php process.php" into project directory.
+Just unpack zip 
+Go to project directory
+Run composer install 
+Then run "php process.php" 
